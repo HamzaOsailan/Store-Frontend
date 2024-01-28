@@ -1,0 +1,44 @@
+
+<app-nav></app-nav>
+<app-sidebar></app-sidebar>
+<div class="m-14 p-12 flex justify-center  sm:ml-64">
+    <div class="p-4 mt-14 bg-slate-800 rounded-xl shadow-2xl">
+        <form [formGroup]="form" (ngSubmit)="onSubmit()">
+            <h1 class="flex items-center text-5xl font-extrabold dark:text-white">EDIT<span
+                    class="bg-blue-100 text-blue-800 text-2xl font-semibold me-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-2">PRODUCT</span>
+            </h1>
+
+            <div>
+                <label for="productName" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Product
+                    name</label>
+                <input formControlName="productName" type="text" id="productName" class="block w-full p-2 text-gray-900 border border-gray-300 rounded-lg bg-gray-50 sm:text-xs focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+            </div>
+            <div>
+                <label for="Description"
+                    class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Description</label>
+                <input formControlName="Description" type="text" id="Description" class="block w-full p-2 text-gray-900 border border-gray-300 rounded-lg bg-gray-50 sm:text-xs focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+            </div>
+            <div>
+                <label for="quantity"
+                    class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Quantity</label>
+                <input formControlName="quantity" type="number" id="quantity" class="block w-full p-2 text-gray-900 border border-gray-300 rounded-lg bg-gray-50 sm:text-xs focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+            </div>
+            <div>
+                <label for="price" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Price</label>
+                <input formControlName="price" type="number" id="price" class="block w-full p-2 text-gray-900 border border-gray-300 rounded-lg bg-gray-50 sm:text-xs focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+            </div>
+            <div>
+                <label for="imageUrl" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white" >Upload
+                    file</label>
+                <input formControlName="imageUrl" id="imageUrl" type="file" class="block w-full text-sm text-gray-900 border border-gray-300 rounded-lg cursor-pointer bg-gray-50 dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400" aria-describedby="user_avatar_help" >
+                <div class="mt-1 text-sm text-gray-500 dark:text-gray-300" id="user_avatar_help">A profile picture is
+                    useful to confirm you are logged into your account</div>
+            </div>
+            <div class="mt-4">
+                <button
+                    class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+                    type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
