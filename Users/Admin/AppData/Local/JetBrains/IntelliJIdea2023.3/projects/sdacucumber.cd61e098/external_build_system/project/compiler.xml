@@ -1,0 +1,7 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="SDAcucumber" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

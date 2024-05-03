@@ -1,0 +1,343 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="SDA_Assigments" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="35yv5st21bmgx">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/main/main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/cucumberTests/Task2week7Test.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="563">
+              <caret line="286" column="21" selection-start-line="286" selection-start-column="21" selection-end-line="286" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 12,
+      "lastUsed": 1714759104465
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1714758730426
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/test/java/runners/sd.java" />
+      <option value="$PROJECT_DIR$/src/test/java/runners/runners.java" />
+      <option value="$PROJECT_DIR$/src/test/java/runners/Runner.java" />
+      <option value="$PROJECT_DIR$/src/test/java/HomeWork15and16stepdefinitions/ContactListContactStepDefinitions.java" />
+      <option value="$PROJECT_DIR$/src/test/java/pojos/UserPojo.java" />
+      <option value="$PROJECT_DIR$/src/test/java/pojos/ContactPojo.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/main/main.java" />
+      <option value="$PROJECT_DIR$/src/test/java/HomeWork15and16stepdefinitions/EndToEndTestStepDefinitions.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="12" lastUsage="1714759104465" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1714758730426" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test/java/cucumberTests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test/java/tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDA_Assigments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/sprangprojects/SpringandAngProject/SDA_Assigments/src/test/resources/Task2week7cucumber}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.Task2week7Test (1)" />
+      <element setting="JUnit.Runner" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Runner - 2024.05.03 at 20h 53m 38s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2024.05.03 at 20h 55m 05s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2024.05.03 at 20h 56m 10s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2024.05.03 at 20h 56m 58s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task2week7Test_(1) - 2024.05.03 at 20h 57m 08s.xml">
+      <configuration name="Task2week7Test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2024.05.03 at 20h 58m 14s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2024.05.03 at 20h 58m 30s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task2week7Test_(1) - 2024.05.03 at 21h 00m 30s.xml">
+      <configuration name="Task2week7Test (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37456897" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3302619" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.3302619" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3302619" left="0.37456897" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="266" key="FileChooserDialogImpl" timestamp="1714759338684">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="428" y="266" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1714759338684" />
+    <state width="704" height="298" key="GridCell.Tab.0.bottom" timestamp="1714759350269">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="704" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1714759350269" />
+    <state width="704" height="298" key="GridCell.Tab.0.center" timestamp="1714759350269">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="704" height="298" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1714759350269" />
+    <state width="704" height="298" key="GridCell.Tab.0.left" timestamp="1714759350269">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="704" height="298" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1714759350269" />
+    <state width="704" height="298" key="GridCell.Tab.0.right" timestamp="1714759350269">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="704" height="298" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1714759350269" />
+    <state x="0" y="157" width="800" height="725" key="new project wizard" timestamp="1714759334371">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="157" width="800" height="725" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1714759334371" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/runners/sd.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runners/runners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeWork15and16stepdefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeWork15and16stepdefinitions/ContactListContactStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="243" column="1" selection-start-line="243" selection-start-column="1" selection-end-line="243" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2916#2917#0" expanded="true" />
+            <element signature="e#2967#2968#0" expanded="true" />
+            <element signature="e#4354#4355#0" expanded="true" />
+            <element signature="e#4405#4406#0" expanded="true" />
+            <element signature="e#5287#5288#0" expanded="true" />
+            <element signature="e#5360#5361#0" expanded="true" />
+            <element signature="e#6361#6362#0" expanded="true" />
+            <element signature="e#6412#6413#0" expanded="true" />
+            <element signature="e#7070#7071#0" expanded="true" />
+            <element signature="e#7121#7122#0" expanded="true" />
+            <element signature="e#8436#8437#0" expanded="true" />
+            <element signature="e#8487#8488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pojos/UserResponsePojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pojos/UserPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pojos/ContactPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="286" column="21" selection-start-line="286" selection-start-column="21" selection-end-line="286" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/base_urls/ContactListBaseUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runners/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeWork15and16stepdefinitions/EndToEndTestStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cucumberTests/Task2week7Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

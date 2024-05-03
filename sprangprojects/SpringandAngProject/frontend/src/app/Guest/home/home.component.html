@@ -1,14 +1,14 @@
-<div class="mt-14 sm:ml-64">
 
+
+<app-nav></app-nav>
 
     <section
-        class="bg-center bg-no-repeat bg-[url('https://flowbite.s3.amazonaws.com/docs/jumbotron/conference.jpg')] bg-gray-700 bg-blend-multiply">
+        class="bg-center bg-no-repeat bg-[url('https://th.bing.com/th/id/OIP.smQAZIpjbAUm-IkecVnsWgHaHa?w=193&h=193&c=7&r=0&o=5&pid=1.7')] bg-gray-700 bg-blend-multiply">
         <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
             <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
-                We invest in the world’s potential</h1>
-            <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Here at Flowbite we focus
-                on markets where technology, innovation, and capital can unlock long-term value and drive economic
-                growth.</p>
+                We explore the world of possibilities in every aisle</h1>
+            <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Here at OurStore, we are dedicated to markets where technology, innovation, and capital converge to unlock enduring value and fuel sustainable economic growth.
+            </p>
             <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
                 <a href="#"
                     class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
@@ -27,22 +27,23 @@
         </div>
     </section>
 
-    <section class="bg-white dark:bg-slate-900">
-        <h1 class="text-center text-white text-3xl p-2">Our Product</h1>
+    <section class="flex flex-col items-center bg-white dark:bg-slate-900 ">
+        <h1 class="text-center text-white text-3xl p-2">Our Products</h1>
         <div class="flex items-center justify-center py-4 md:py-8 flex-wrap">
             <button type="button" class="text-blue-700 hover:text-white border border-blue-600 bg-white hover:bg-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:bg-gray-900 dark:focus:ring-blue-800" >All categories</button>
-            <button type="button" class="text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800" (click)="click()">Shoes</button>
+            <button type="button" class="text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800">Shoes</button>
             <button type="button" class="text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800">Bags</button>
             <button type="button" class="text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800">Electronics</button>
             <button type="button" class="text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-gray-900 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800">Gaming</button>
         </div>
+        
         <div class="grid grid-cols-2 md:grid-cols-3 gap-4 p-2">
             
             @for (product of Products; track product.id) {
             <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                
                 <a href="#">
-                    <img class="p-8 rounded-t-lg" src="{{product.imageUrl}}" alt="product image" />
+                    <img class="p-8 rounded-t-lg" src="assets/{{product.imageUrl}}" alt="product image" />
                 </a>
                 <div class="px-5 pb-5">
                     <a href="#">
@@ -58,12 +59,12 @@
                            
                         </div>
                         <span
-                            class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-3">{{product.quantity}}</span>
+                            class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-3"> Quantity {{product.quantity}}</span>
                     </div>
                 
                     <div class="flex items-center justify-between">
                         <span class="text-3xl font-bold text-gray-900 dark:text-white">{{product.price}} SAR</span>
-                        <a href="#"
+                        <a href="view/{{product.id}}"
                             class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">VIEW</a>
                     </div>
                 </div>
@@ -72,4 +73,4 @@
         }
         </div>
     </section>
-</div>
+

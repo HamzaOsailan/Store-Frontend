@@ -1,5 +1,8 @@
-<div class="p-4 sm:ml-64">
-    <div class="p-16 mt-14 bg-slate-800 rounded-xl shadow-2xl">
+
+<app-nav></app-nav>
+<app-sidebar></app-sidebar>
+<div class="m-14 p-12 flex justify-center  sm:ml-64">
+    <div class="p-4 mt-14 bg-slate-800 rounded-xl shadow-2xl">
         <form [formGroup]="form" (ngSubmit)="onsubmit()">
             <h1 class="flex items-center text-5xl font-extrabold dark:text-white">ADD NEW<span
                     class="bg-blue-100 text-blue-800 text-2xl font-semibold me-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-2">PRODUCT</span>
